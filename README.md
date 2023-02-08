@@ -8,7 +8,7 @@ hola mundo
 ### Aquiles Alvarez
 ![Aquiles Alvarez](https://github.com/AnJoGar/AndersonJEjemplo2/blob/main/aquiles.jfif)
 ### Cinthia Viteri
-*![Cinthia Viteri](https://github.com/AnJoGar/AndersonJEjemplo2/blob/main/1200px-Cynthia_Viteri_en_2018_02_(cropped).jpg)
+*![Cinthia Viteri](https://github.com/AnJoGar/AndersonJEjemplo2/blob/main/cinthia.png)
 
 ## Resultados 
 
