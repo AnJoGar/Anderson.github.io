@@ -8,7 +8,7 @@ hola mundo
 ### Aquiles Alvarez
 ![Aquiles Alvarez](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primicias.ec%2Fnoticias%2Fpolitica%2Faquiles-alvarez-candidatura-alcaldia-guayaquil-elecciones-seccionales-ecuador%2F&psig=AOvVaw3ZcfhDfpJIkVO8MpbJ7qO7&ust=1675982825453000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiu9tmAh_0CFQAAAAAdAAAAABAJ)
 ### Cinthia Viteri
-*![Cinthia Viteri](/ruta/a/la/imagen.jpg)
+*![Cinthia Viteri](https://github.com/AnJoGar/AndersonJEjemplo2/blob/main/Cynthia_Viteri_2023.jpg)
 
 ## Resultados 
 
