@@ -1,7 +1,3 @@
-# AndersonJEjemplo2
-
-hola mundo
-
 # Resultados electorales 
 
 ## Imágenes de los candidatos
