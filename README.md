@@ -4,7 +4,7 @@
 ### Aquiles Alvarez
 ![Aquiles Alvarez](https://raw.githubusercontent.com/AnJoGar/AndersonJEj.github.io/main/aquiles.jfif)
 ### Cinthia Viteri
-![Cinthia Viteri](https://raw.githubusercontent.com/AnJoGar/AndersonJEj.github.io/blob/main/cinthia.png)
+![Cinthia Viteri](https://raw.githubusercontent.com/AnJoGar/AndersonPages.github.io/blob/main/cinthia.png)
 
 ## Resultados 
 
