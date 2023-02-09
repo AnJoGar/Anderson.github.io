@@ -9,8 +9,9 @@
 ## Resultados 
 
 Tabla 
+
 | Candidato | Votos   |
-| ------- | -------- |
-| Aquiles Alvarez  | 551996   |
-| Cinthia Viteri   | 420208   |
+| --------- | ------- |
+| Aquiles Alvarez  | 551996 |
+| Cinthia Viteri   | 420208 |
 
