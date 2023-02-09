@@ -2,7 +2,7 @@
 
 ## Imágenes de los candidatos
 ### Aquiles Alvarez
-![Aquiles Alvarez](https://github.com/AnJoGar/AndersonJEj.github.io/blob/main/aquiles.jfif)
+![Aquiles Alvarez](https://raw.githubusercontent.com/AnJoGar/AndersonJEj.github.io/main/aquiles.jfif)
 ### Cinthia Viteri
 ![Cinthia Viteri](imagen1/cinthia.png)
 
